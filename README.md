@@ -13,7 +13,7 @@ I'm Max. I do Linux Kernel Development. I'm also the maintainer for the SCD30 in
 
 Reach me at m32285159@gmail.com (may change soon)  
   
-PGP Key Fingerprint: `0821 71B3 FDD1 63E7 0DB4 B156 1A7F BBBB 1BF2 D050`
+PGP Key Fingerprint: `5C6E C858 DFD1 6A56 2BB4 0C2D F43D 2860 A565 4AD4`
 <!--
 **maxskiier/maxskiier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
