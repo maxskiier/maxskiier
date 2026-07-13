@@ -11,7 +11,7 @@ I'm Max. I do Linux Kernel Development. I'm also the maintainer for the SCD30 in
 - Writing C code
 - Tech debt removal and modernization
 
-Reach me at m32285159@gmail.com (may change soon)  
+Reach me at maxwell@maxwelld.cc
   
 PGP Key Fingerprint: `5C6E C858 DFD1 6A56 2BB4 0C2D F43D 2860 A565 4AD4`
 
